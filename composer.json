@@ -2,11 +2,6 @@
     "name": "mdd/top-sdk",
     "description": "this is top-sdk",
     "type": "library",
-    "authors": [
-        {
-            "name": "ZKW",
-            "email": "kewei0602@qq.com"
-        }
-    ],
+    "minimum-stability": "beta",
     "require": {}
 }
