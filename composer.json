@@ -1,7 +1,7 @@
 {
     "name": "mdd/top-sdk",
     "description": "this is top-sdk",
-    "type": "1.0",
+    "type": "library",
     "authors": [
         {
             "name": "ZKW",
