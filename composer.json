@@ -1,0 +1,12 @@
+{
+    "name": "mdd/top-sdk",
+    "description": "this is top-sdk",
+    "type": "1.0",
+    "authors": [
+        {
+            "name": "ZKW",
+            "email": "kewei0602@qq.com"
+        }
+    ],
+    "require": {}
+}
